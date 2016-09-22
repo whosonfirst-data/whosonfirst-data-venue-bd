@@ -1,0 +1,84 @@
+{
+  "id": 1108702977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"90.379976,23.743156,90.379976,23.743156",
+    "geom:latitude":23.743156,
+    "geom:longitude":90.379976,
+    "iso:country":"BD",
+    "mz:hierarchy_label":1,
+    "sg:address":"House#39/A (6th floor), Road#11",
+    "sg:city":"Dhanmondi",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"1205",
+    "sg:tags":[
+        "agile",
+        "scrum",
+        "saas",
+        "ruby-on-rails",
+        "custom-software-development",
+        "offshore",
+        "-net",
+        "java",
+        "cloud-computing"
+    ],
+    "sg:website":"http://www.code71.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632475,
+        85902971,
+        85669009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AocWixyvzAsviECElfAIA_23.743156_90.379976@1308163238"
+    },
+    "wof:country":"BD",
+    "wof:created":1474570895,
+    "wof:geomhash":"7dbd005534586b3583bfa77b5bfdcb9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632475,
+            "neighbourhood_id":85902971,
+            "region_id":85669009,
+            "venue_id":1108702977
+        }
+    ],
+    "wof:id":1108702977,
+    "wof:lastmodified":1474570895,
+    "wof:name":"Code71",
+    "wof:parent_id":85902971,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agile",
+        "scrum",
+        "saas",
+        "ruby-on-rails",
+        "custom-software-development",
+        "offshore",
+        "-net",
+        "java",
+        "cloud-computing"
+    ]
+},
+  "bbox": [
+    90.379976,
+    23.743156,
+    90.379976,
+    23.743156
+],
+  "geometry": {"coordinates":[90.379976,23.743156],"type":"Point"}
+}
